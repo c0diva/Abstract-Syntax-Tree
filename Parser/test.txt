@@ -1,0 +1,42 @@
+using namespace std;
+class Aditi
+{	
+//this is a cpp comment
+/*
+this is a 
+c 
+comment
+*/
+	int main()
+	{
+		if(n=0)
+		{
+			cout<<"test";;				
+		}	
+		for(int i =0;i<n;i++)
+		{
+			if(n=0)
+			{
+				break;
+			}
+			else
+			{
+				n++;
+			}
+	
+		}
+
+		cout<<"Entering end of the scope"<<endl;
+		while(t=0)
+		{
+			a=a+1;
+		}
+	}
+};
+class Check
+{
+int main()
+{
+cout<<"Karani is Gay!!!!";
+}
+};

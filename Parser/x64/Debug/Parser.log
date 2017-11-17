@@ -1,0 +1,34 @@
+﻿Build started 03-04-2016 14:05:35.
+     1>Project "C:\Syracuse University\Semester 2\OOD\Project 2\Project2_AditiGaikwad\Parser\Parser.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _DEBUG /D _CONSOLE /D METRICEXECUTIVE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt ..\AST\AST.cpp "..\FileSystem-Windows\FileSystemDemo\Filemanager.cpp" ..\MetricsAnalysis\MetricsAnalysis.cpp ..\MetricsExecutive\MatricsExec.cpp ..\ScopeStack\ScopeStack.cpp ..\SemiExp\SemiExp.cpp ..\Tokenizer\Tokenizer.cpp ..\Utilities\Utilities.cpp ActionsAndRules.cpp ConfigureParser.cpp Parser.cpp
+         Parser.cpp
+         ConfigureParser.cpp
+         ActionsAndRules.cpp
+         Utilities.cpp
+         Tokenizer.cpp
+         SemiExp.cpp
+         ScopeStack.cpp
+         MatricsExec.cpp
+         MetricsAnalysis.cpp
+         Filemanager.cpp
+         AST.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Syracuse University\Semester 2\OOD\Project 2\Project2_AditiGaikwad\x64\Debug\Parser.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Syracuse University\Semester 2\OOD\Project 2\Project2_AditiGaikwad\x64\Debug\Parser.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Syracuse University\Semester 2\OOD\Project 2\Project2_AditiGaikwad\x64\Debug\Parser.lib" /MACHINE:X64 x64\Debug\AST.obj
+         x64\Debug\Filemanager.obj
+         x64\Debug\MetricsAnalysis.obj
+         x64\Debug\MatricsExec.obj
+         x64\Debug\ScopeStack.obj
+         x64\Debug\SemiExp.obj
+         x64\Debug\Tokenizer.obj
+         x64\Debug\Utilities.obj
+         x64\Debug\ActionsAndRules.obj
+         x64\Debug\ConfigureParser.obj
+         x64\Debug\Parser.obj
+         Parser.vcxproj -> C:\Syracuse University\Semester 2\OOD\Project 2\Project2_AditiGaikwad\x64\Debug\Parser.exe
+     1>Done Building Project "C:\Syracuse University\Semester 2\OOD\Project 2\Project2_AditiGaikwad\Parser\Parser.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:25.42
