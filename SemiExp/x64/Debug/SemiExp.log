@@ -1,0 +1,13 @@
+﻿Build started 10-03-2016 16:06:18.
+     1>Project "C:\Syracuse University\Semester 2\OOD\Project 2\Project2HelperCode - Copy\SemiExp\SemiExp.vcxproj" on node 5 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Syracuse University\Semester 2\OOD\Project 2\Project2HelperCode - Copy\x64\Debug\SemiExp.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Syracuse University\Semester 2\OOD\Project 2\Project2HelperCode - Copy\x64\Debug\SemiExp.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Syracuse University\Semester 2\OOD\Project 2\Project2HelperCode - Copy\x64\Debug\SemiExp.lib" /MACHINE:X64 x64\Debug\Tokenizer.obj
+         x64\Debug\Utilities.obj
+         x64\Debug\SemiExp.obj
+     1>MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+     1>C:\Syracuse University\Semester 2\OOD\Project 2\Project2HelperCode - Copy\x64\Debug\SemiExp.exe : fatal error LNK1120: 1 unresolved externals
+     1>Done Building Project "C:\Syracuse University\Semester 2\OOD\Project 2\Project2HelperCode - Copy\SemiExp\SemiExp.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.79
