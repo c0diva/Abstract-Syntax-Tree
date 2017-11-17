@@ -1,0 +1,14 @@
+﻿Build started 06-03-2016 20:37:44.
+     1>Project "C:\Syracuse University\Semester 2\OOD\Project 2\Project2HelperCode\ScopeStack\ScopeStack.vcxproj" on node 3 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt ScopeStack.cpp
+         ScopeStack.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Syracuse University\Semester 2\OOD\Project 2\Project2HelperCode\x64\Debug\ScopeStack.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Syracuse University\Semester 2\OOD\Project 2\Project2HelperCode\x64\Debug\ScopeStack.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Syracuse University\Semester 2\OOD\Project 2\Project2HelperCode\x64\Debug\ScopeStack.lib" /MACHINE:X64 x64\Debug\ScopeStack.obj
+     1>MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+     1>C:\Syracuse University\Semester 2\OOD\Project 2\Project2HelperCode\x64\Debug\ScopeStack.exe : fatal error LNK1120: 1 unresolved externals
+     1>Done Building Project "C:\Syracuse University\Semester 2\OOD\Project 2\Project2HelperCode\ScopeStack\ScopeStack.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.51
